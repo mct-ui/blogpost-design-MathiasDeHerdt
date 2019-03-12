@@ -132,12 +132,12 @@ a {
 
 a:visited,
 a:active {
-    color: #00A1E6;
+    color: #00E6A1;
 }
 
 a:hover,
 a:focus {
-    color: #00A1E6;
+    color: #1ABAFF;
 }
 
 /* Small devices (landscape phones, 576px and up) */
